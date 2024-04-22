@@ -1,0 +1,465 @@
+Live animals,1010
+Domestic pet products,1011
+Animal feed,1012
+Animal containment and habitats,1013
+Saddlery and harness goods,1014
+Seeds and bulbs and seedlings and cuttings,1015
+Floriculture and silviculture products,1016
+Fertilizers and plant nutrients and herbicides,1017
+Pest control products,1019
+Live rose bushes,1020
+Live plants of high species or variety count flowers,1021
+Live plants of low species or variety count flowers,1022
+Live chrysanthemums,1023
+Live carnations,1024
+Live orchids,1025
+Fresh cut rose,1030
+Fresh cut blooms of high species or variety count flowers,1031
+Fresh cut blooms of low species or variety count flowers,1032
+Fresh cut chrysanthemums,1033
+Fresh cut floral bouquets,1034
+Fresh cut carnations,1035
+Fresh cut orchids,1036
+Dried cut roses,1040
+Dried cut blooms of high species or variety count flowers,1041
+Dried cut blooms of low species or variety count flowers,1042
+Dried cut chrysanthemums,1043
+Dried cut carnations,1044
+Dried cut orchids,1045
+Fresh cut greenery,1050
+Minerals and ores and metals,1110
+Earth and stone,1111
+Non edible plant and forestry products,1112
+Non edible animal products,1113
+Scrap and waste materials,1114
+Fibers and threads and yarns,1115
+Fabrics and leather materials,1116
+Alloys,1117
+Metal oxide,1118
+Metal waste scrap and by products,1119
+Explosive materials,1213
+Elements and gases,1214
+Additives,1216
+Colorants,1217
+Waxes and oils,1218
+Solvents,1219
+Compounds and mixtures,1235
+Pharmaceutical drug precursors,1236
+Rubber and elastomers,1310
+Resins and rosins and other resin derived materials,1311
+Paper materials,1410
+Paper products,1411
+Industrial use papers,1412
+Fuels,1510
+Gaseous fuels and additives,1511
+Lubricants and oils and greases and anti corrosives,1512
+Fuel for nuclear reactors,1513
+Mining and quarrying machinery and equipment,2010
+Well drilling and operation equipment,2011
+Oil and gas drilling and exploration equipment,2012
+Oil and gas drilling and operation materials,2013
+Oil and gas operating and production equipment,2014
+Agricultural and forestry and landscape machinery and equipment,2110
+Fishing and aquaculture equipment,2111
+Heavy construction machinery and equipment,2210
+Raw materials processing machinery,2310
+Petroleum processing machinery,2311
+Textile and fabric machinery and accessories,2312
+Lapidary machinery and equipment,2313
+Leatherworking repairing machinery and equipment,2314
+Industrial process machinery and equipment and supplies,2315
+Foundry machines and equipment and supplies,2316
+Industrial food and beverage equipment,2318
+Mixers and their parts and accessories,2319
+Mass transfer equipment,2320
+Electronic manufacturing machinery and equipment and accessories,2321
+Chicken processing machinery and equipment,2322
+Sawmilling and lumber processing machinery and equipment,2323
+Metal cutting machinery and accessories,2324
+Metal forming machinery and accessories,2325
+Rapid prototyping machinery and accessories,2326
+Welding and soldering and brazing machinery and accessories and supplies,2327
+Metal treatment machinery,2328
+Industrial machine tools,2329
+Wire machinery and equipment,2330
+Material handling machinery and equipment,2410
+Containers and storage,2411
+Packaging materials,2412
+Industrial refrigeration,2413
+Packing supplies,2414
+Motor vehicles,2510
+Marine transport,2511
+Railway and tramway machinery and equipment,2512
+Aircraft,2513
+Spacecraft,2515
+Non motorized cycles,2516
+Transportation components and systems,2517
+Vehicle bodies and trailers,2518
+Transportation services equipment,2519
+Aerospace systems and components and equipment,2520
+Power sources,2610
+Batteries and generators and kinetic power transmission,2611
+Electrical wire and cable and harness,2612
+Power generation,2613
+Atomic and nuclear energy machinery and equipment,2614
+Hand tools,2711
+Hydraulic machinery and equipment,2712
+Pneumatic machinery and equipment,2713
+Automotive specialty tools,2714
+Structural components and basic shapes,3010
+Concrete and cement and plaster,3011
+Roads and landscape,3012
+Structural building products,3013
+Insulation,3014
+Exterior finishing materials,3015
+Interior finishing materials,3016
+Doors and windows and glass,3017
+Plumbing fixtures,3018
+Construction and maintenance support equipment,3019
+Portable Structure Building Components,3024
+Underground mining structures and materials,3025
+Structural materials,3026
+Castings and casting assemblies,3110
+Extrusions,3111
+Machined castings,3112
+Forgings,3113
+Moldings,3114
+Rope and chain and cable and wire and strap,3115
+Hardware,3116
+Bearings and bushings and wheels and gears,3117
+Packings glands boots and covers,3118
+Grinding and polishing and smoothing materials,3119
+Adhesives and sealants,3120
+Paints and primers and finishes,3121
+Dyeing and tanning extracts,3122
+Machined raw stock,3123
+Industrial optics,3124
+Pneumatic and hydraulic and electric control systems,3125
+Housings and cabinets and casings,3126
+Machine made parts,3127
+Stampings and sheet components,3128
+Machined extrusions,3129
+Machined forgings,3130
+Fabricated pipe assemblies,3131
+Fabricated bar stock assemblies,3132
+Fabricated structural assemblies,3133
+Fabricated sheet assemblies,3134
+Fabricated tube assemblies,3135
+Fabricated plate assemblies,3136
+Refractories,3137
+Magnets and magnetic materials,3138
+Machinings,3139
+Gaskets,3140
+Seals,3141
+Sintered parts,3142
+Printed circuits and integrated circuits and microassemblies,3210
+Discrete semiconductor devices,3211
+Passive discrete components,3212
+Electronic hardware and component parts and accessories,3213
+Electron tube devices and accessories,3214
+Automation control devices and components and accessories,3215
+Lamps and lightbulbs and lamp components,3910
+Lighting Fixtures and Accessories,3911
+Electrical equipment and components and supplies,3912
+Electrical wire management devices and accessories and supplies,3913
+Heating and ventilation and air circulation,4010
+Fluid and gas distribution,4014
+Industrial pumps and compressors,4015
+Industrial filtering and purification,4016
+Pipe piping and pipe fittings,4017
+Tubes tubing and tube fittings,4018
+Laboratory and scientific equipment,4110
+Measuring and observing and testing instruments,4111
+Laboratory supplies and fixtures,4112
+Veterinary equipment and supplies,4212
+Medical apparel and textiles,4213
+Patient care and treatment products and supplies,4214
+Dental equipment and supplies,4215
+Dialysis equipment and supplies,4216
+Emergency and field medical services products,4217
+Patient exam and monitoring products,4218
+Medical facility products,4219
+Medical diagnostic imaging and nuclear medicine products,4220
+Independent living aids for the physically challenged,4221
+Intravenous and arterial administration products,4222
+Clinical nutrition,4223
+Orthopedic and prosthetic and sports medicine products,4224
+Physical and occupational therapy and rehabilitation products,4225
+Postmortem and mortuary equipment and supplies,4226
+Respiratory and anesthesia and resuscitation products,4227
+Medical sterilization products,4228
+Surgical products,4229
+Medical training and education supplies,4230
+Wound care products,4231
+Orthopedic surgical implants,4232
+Communications Devices and Accessories,4319
+Components for information technology or broadcasting or telecommunications,4320
+Computer Equipment and Accessories,4321
+Data Voice or Multimedia Network Equipment or Platforms and Accessories,4322
+Software,4323
+Office machines and their supplies and accessories,4410
+Office and desk accessories,4411
+Office supplies,4412
+Printing and publishing equipment,4510
+Audio and visual presentation and composing equipment,4511
+Photographic or filming or video equipment,4512
+Photographic and recording media,4513
+Photographic filmmaking supplies,4514
+Light weapons and ammunition,4610
+Conventional war weapons,4611
+Missiles,4612
+Rockets and subsystems,4613
+Launchers,4614
+Law enforcement,4615
+Public safety and control,4616
+Security surveillance and detection,4617
+Personal safety and protection,4618
+Fire protection,4619
+Defense and law enforcement and security and safety training equipment,4620
+Workplace safety equipment and supplies and training materials,4621
+Military weapon and ammunition disarmament and disposal equipment and related products,4622
+Water and wastewater treatment supply and disposal,4710
+Industrial laundry and dry cleaning equipment,4711
+Janitorial equipment,4712
+Cleaning and janitorial supplies,4713
+Institutional food services equipment,4810
+Vending machines,4811
+Gambling or wagering equipment,4812
+Funeral equipment and materials,4813
+Collectibles and awards,4910
+Camping and outdoor equipment and accessories,4912
+Fishing and hunting equipment,4913
+Watersports equipment,4914
+Winter sports equipment,4915
+Field and court sports equipment,4916
+Gymnastics and boxing equipment,4917
+Target and table games and equipment,4918
+Fitness equipment,4920
+Other sports,4921
+Sports equipment and accessories,4922
+Recreation and playground and swimming and spa equipment and supplies,4924
+Nuts and seeds,5010
+Meat and poultry products,5011
+Seafood,5012
+Dairy products and eggs,5013
+Edible oils and fats,5015
+Chocolate and sugars and sweeteners and confectionary products,5016
+Seasonings and preservatives,5017
+Bread and bakery products,5018
+Prepared and preserved foods,5019
+Beverages,5020
+Tobacco and smoking products and substitutes,5021
+Cereal and pulse products,5022
+Fresh fruits,5030
+Organic fresh fruits,5031
+Dried fruit,5032
+Dried organic fruit,5033
+Frozen fruit,5034
+Frozen organic fruit,5035
+Canned or jarred fruit,5036
+Canned or jarred organic fruit,5037
+Fresh fruit purees,5038
+Organic fresh fruit purees,5039
+Fresh vegetables,5040
+Organic fresh vegetables,5041
+Dried vegetables,5042
+Dried organic vegetables,5043
+Frozen vegetables,5044
+Frozen organic vegetables,5045
+Canned or jarred vegetables,5046
+Canned or jarred organic vegetables,5047
+Fresh vegetable purees,5048
+Organic fresh vegetable purees,5049
+Nutritional supplements,5050
+Non GMO fresh fruits,5052
+Dried non GMO fruits,5053
+Frozen non GMO fruits,5054
+Canned or jarred non GMO fruits,5055
+Non GMO fresh fruit purees,5056
+Non GMO fresh vegetables,5058
+Dried Non GMO vegetables,5059
+Frozen Non GMO vegetables,5060
+Canned or jarred Non GMO vegetables,5061
+Non GMO fresh vegetable purees,5062
+Amebicides and trichomonacides and antiprotozoals,5110
+Antineoplastic agents,5111
+Antiarrythmics and antianginals and cardioplegics and drugs for heart failure,5112
+Hematolic drugs,5113
+Central nervous system drugs,5114
+Autonomic nervous system drugs,5115
+Drugs affecting the respiratory tract,5116
+Drugs affecting the gastrointestinal system,5117
+Hormones and hormone antagonists,5118
+Agents affecting water and electrolytes,5119
+Immunomodulating drugs,5120
+Drugs affecting the ears, eye, nose and skin,5124
+Adrenergic blocking agents,5126
+Anaesthetic drugs and related adjuncts and analeptics,5127
+Antibacterials,5128
+Antidepressants,5129
+Antifungal drugs,5130
+Antihistamines or H1 blockers,5131
+Antihyperlipidemic and hypocholesterolemic agents,5132
+Antipsychotics,5133
+Antiviral drugs,5134
+Estrogens and progestins and internal contraceptives,5135
+Hypnotics,5136
+Controlled substance analgesics,5137
+Nonsteroidal anti inflammatory drugs NSAIDs,5138
+Sympathomimetic or adrenergic drugs,5139
+Tranquilizers and antimanic and antianxiety drugs,5140
+Vasodilators,5141
+Corticosteroids,5142
+Antihypertensive drugs,5143
+Radiopharmaceuticals and contrast media,5144
+Anthelmintics,5145
+Herbal drugs,5146
+Antiseptics,5147
+Floor coverings,5210
+Bedclothes and table and kitchen linen and towels,5212
+Window treatments,5213
+Domestic appliances,5214
+Domestic kitchenware and kitchen supplies,5215
+Consumer electronics,5216
+Domestic wall treatments,5217
+Clothing,5310
+Footwear,5311
+Luggage and handbags and packs and cases,5312
+Personal care products,5313
+Sewing supplies and accessories,5314
+Jewelry,5410
+Timepieces,5411
+Gemstones,5412
+Printed media,5510
+Electronic reference material,5511
+Signage and accessories,5512
+Accommodation furniture,5610
+Commercial and industrial furniture,5611
+Classroom and instructional and institutional furniture and fixtures,5612
+Merchandising furniture and accessories,5613
+Decorative adornments,5614
+Developmental and professional teaching aids and materials and accessories and supplies,6010
+Classroom decoratives and supplies,6011
+Arts and crafts equipment and accessories and supplies,6012
+Musical Instruments and parts and accessories,6013
+Toys and games,6014
+Bank offered products,6410
+Securities,6411
+Insurable interest contracts,6412
+General agreements and contracts,6413
+Governmental property right conferrals,6414
+Fisheries and aquaculture,7010
+Horticulture,7011
+Livestock services,7012
+Land and soil preparation and management and protection,7013
+Crop production and management and protection,7014
+Forestry,7015
+Wildlife and flora,7016
+Water resources development and oversight,7017
+Mining services,7110
+Oil and gas exploration services,7111
+Well drilling and construction services,7112
+Oil and gas extraction and production enhancement services,7113
+Oil and gas restoration and reclamation services,7114
+Oil and gas data management and processing services,7115
+Oil and gas well project management services,7116
+Building and facility maintenance and repair services,7210
+Residential building construction services,7211
+Nonresidential building construction services,7212
+Heavy construction services,7214
+Specialized trade construction and maintenance services,7215
+Plastic and chemical industries,7310
+Wood and paper industries,7311
+Metal and mineral industries,7312
+Food and beverage industries,7313
+Fibers and textiles and fabric industries,7314
+Manufacturing support services,7315
+Machinery and transport equipment manufacture,7316
+Manufacture of electrical goods and precision instruments,7317
+Machining and processing services,7318
+Decontamination services,7610
+Cleaning and janitorial services,7611
+Refuse disposal and treatment,7612
+Toxic and hazardous waste cleanup,7613
+Environmental management,7710
+Environmental protection,7711
+Pollution tracking and monitoring and rehabilitation,7712
+Pollutants tracking and monitoring and rehabilitation services,7713
+Mail and cargo transport,7810
+Passenger transport,7811
+Material packing and handling,7812
+Storage,7813
+Transport services,7814
+Transportation repair or maintenance services,7818
+Management advisory services,8010
+Human resources services,8011
+Legal services,8012
+Real estate services,8013
+Marketing and distribution,8014
+Trade policy and services,8015
+Business administration services,8016
+Public relations and professional communications services,8017
+Professional engineering services,8110
+Computer services,8111
+Economics,8112
+Statistics,8113
+Manufacturing technologies,8114
+Earth science services,8115
+Information Technology Service Delivery,8116
+Biological science services,8117
+Advertising,8210
+Writing and translations,8211
+Reproduction services,8212
+Photographic services,8213
+Graphic design,8214
+Professional artists and performers,8215
+Film and theater production support services,8216
+Utilities,8310
+Telecommunications media services,8311
+Information services,8312
+Development finance,8410
+Accounting and bookkeeping services,8411
+Banking and investment,8412
+Insurance and retirement services,8413
+Credit agencies,8414
+Comprehensive health services,8510
+Disease prevention and control,8511
+Medical practice,8512
+Medical science research and experimentation,8513
+Alternative and holistic medicine,8514
+Food and nutrition services,8515
+Medical Surgical Equipment Maintenance Refurbishment and Repair Services,8516
+Death and dying support services,8517
+Vocational training,8610
+Alternative educational systems,8611
+Educational institutions,8612
+Specialized educational services,8613
+Educational facilities,8614
+Restaurants and catering,9010
+Hotels and lodging and meeting facilities,9011
+Travel facilitation,9012
+Performing arts,9013
+Commercial sports,9014
+Entertainment services,9015
+Personal appearance,9110
+Domestic and personal assistance,9111
+Public order and safety,9210
+Military services and national defense,9211
+Security and personal safety,9212
+Political systems and institutions,9310
+Socio political conditions,9311
+International relations,9312
+Humanitarian aid and relief,9313
+Community and social services,9314
+Public administration and finance services,9315
+Taxation,9316
+Trade policy and regulation,9317
+Work related organizations,9410
+Religious organizations,9411
+Clubs,9412
+Civic organizations and associations and movements,9413
+Land parcels,9510
+Thoroughfares,9511
+Permanent buildings and structures,9512
+Portable buildings and structures,9513
+Prefabricated buildings and structures,9514
