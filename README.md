@@ -1,4 +1,4 @@
-# URL Product Extraction
+# URL Product Extraction with ML Model
 
 [![Powered by Veridion](https://example.com/path/to/veridion-logo.png)](https://veridion.com)
 
